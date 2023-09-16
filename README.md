@@ -6,7 +6,7 @@ Installation and usage
 ✈️ To install and use the project, follow these steps:
 
 Clone the project repository:
-git clone https://github.com/omer-here/complaint-management-system-cpp.git
+git clone https://github.com/omer-here/Complaint-Management-System-cpp.git
 Compile the project:
 cd complaint-management-system-cpp
 make
